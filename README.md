@@ -1,4 +1,4 @@
-# docker-armhf-torrentbox
+# docker-armhf-torrentbox for ARMv7 (for my Cubietruck)
 Docker image with nginx + php5-fpm + rtorrent + rutorrent(web ui) started with supervisord
 
 # usage
